@@ -3,7 +3,9 @@
 ### Branches
 **main** - Novation Launch Control
 
-**Settings**
+### Settings
+
+`X-Controls.txt`
 
 #### Pads
 1. `play = cc, 16, 1, 52, 0, sel/play` - Play selected clip. If it's Midi, record too.
@@ -14,7 +16,6 @@
 6. `rec2 = cc, 16, 6, 3, 0, sel/recfix 2` - Record for 2 bars in the current clip. (Works for Audio too.)
 7. `rec4 = cc, 16, 7, 5, 0, sel/recfix 4` - Record for 4 bars in the current clip. (Works for Audio too.)
 8. `rec8 = cc, 16, 8, 7, 0, sel/recfix 8` - Record for 8 bars in the current clip. (Works for Audio too.)
-
 
 #### Arrows
 1. `up = cc, 16, 9, 0, 127, up` - Move up.

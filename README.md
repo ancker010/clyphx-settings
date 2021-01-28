@@ -5,10 +5,10 @@
 
 ### Usage
 
-Clone the repo to your local system.
-`git clone https://github.com/ancker010/clyphx-settings.git`
-Copy the `ClyphX_Pro` folder and its contents to your `/Users/<username>/nativeKONTROL/` folder.
-Then restart Ableton.
+1. Clone the repo to your local system.
+2. `git clone https://github.com/ancker010/clyphx-settings.git`
+3. Copy the `ClyphX_Pro` folder and its contents to your `/Users/<username>/nativeKONTROL/` folder.
+4. Then restart Ableton.
 See the ClyphX_Pro manual for how to install ClyphX_Pro.
 
 ### Settings

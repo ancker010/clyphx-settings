@@ -78,7 +78,7 @@
 # Novation Launch Control
 # Pads
 play = cc, 16, 1, 52, 0, sel/play
-# 2 not used
+stop = cc, 16, 2, 11, 0, stopall
 dupe = cc, 16, 3, 62, 0, sel/clip(sel) dupe
 # 4 not used
 over = cc, 16, 5, 55, 0, srec

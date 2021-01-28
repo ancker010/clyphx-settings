@@ -3,6 +3,14 @@
 ### Branches
 **main** - Novation Launch Control
 
+### Usage
+
+Clone the repo to your local system.
+`git clone https://github.com/ancker010/clyphx-settings.git`
+Copy the `ClyphX_Pro` folder and its contents to your `/Users/<username>/nativeKONTROL/` folder.
+Then restart Ableton.
+See the ClyphX_Pro manual for how to install ClyphX_Pro.
+
 ### Settings
 
 `X-Controls.txt`

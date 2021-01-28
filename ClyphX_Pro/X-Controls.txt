@@ -81,7 +81,7 @@ play = cc, 16, 1, 52, 0, sel/play
 # 2 not used
 dupe = cc, 16, 3, 62, 0, sel/clip(sel) dupe
 # 4 not used
-over = cc, 16, 5, 55, 0, spec
+over = cc, 16, 5, 55, 0, srec
 rec2 = cc, 16, 6, 3, 0, sel/recfix 2
 rec4 = cc, 16, 7, 5, 0, sel/recfix 4
 rec8 = cc, 16, 8, 7, 0, sel/recfix 8
